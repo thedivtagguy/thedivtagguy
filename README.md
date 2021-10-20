@@ -20,6 +20,8 @@ Hi, I'm [Aman Bhargava](https://thedivtagguy.com), a Human-Computer Interaction 
 - 🌱 I’m currently learning **ReactJS | R | Gatsby & Hugo | Python**;
 - 📫 Reach me: [@thedivtagguy](https://twitter.com/thedivtagguy)
 - 👨‍💻 All of my coding projects are available at: [@thedivtagguy](https://github.com/thedivtagguy)
+- 💽 View my finished data projects at: [thedivtagguy.com](https://thedivtagguy.com)
+- 📺 I don't just code! View my art: [@thedivtagguy](https://instagram.com/thedivtagguy)
 
 ## Languages and Tools:
 
@@ -34,7 +36,7 @@ Hi, I'm [Aman Bhargava](https://thedivtagguy.com), a Human-Computer Interaction 
 </a>
 
 <a href="https://www.jamstack.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jamstack/jamstack-ar21.svg" alt="jamstack" width="40" height="40"/>
+    <img src="https://d33wubrfki0l68.cloudfront.net/2bc4b5d71e4acee99dfe454f716daaa521c66f74/4f705/img/logo/svg/jamstack_icon_white.svg" alt="jamstack" width="40" height="40"/>
 </a>
 
 <a href="https://www.netlify.com/" target="_blank">
