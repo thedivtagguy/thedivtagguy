@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Aman Bhargava](https://thedivtagguy.com), a Human-Computer Interaction Undergrad at Srishti Institute of Design, Bangalore. I'm exploring Web Development, Data Visualization and Storytelling, and Design. I make things which are almost, but not quite, not entirely unlike other things.
+Hi, I'm [Aman Bhargava](https://thedivtagguy.com), a Human-Computer Interaction Undergrad at Srishti Institute of Design, Bangalore. I'm exploring Web Development, Data Visualization and Storytelling, and Design. I code, write, design, photograph and illustrate (sometimes, at the same time 🦖)
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thedivtagguy&" alt="adeecc" /></p>
   
