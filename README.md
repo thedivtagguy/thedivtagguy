@@ -18,7 +18,7 @@ I code, write, design, photograph and illustrate (sometimes, at the same time �
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thedivtagguy&" alt="adeecc" /></p>
   
-- 🔭 I’m currently working on **[The Srishti Archive](https://srishtiarchive.com)**
+- 🔭 I’m currently working on **[learning data viz by creating something new every other day](https://github.com/thedivtagguy/daily-data)**
 - 🌱 I’m currently learning **ReactJS | R | Gatsby & Hugo | Python**;
 - 📫 Reach me: [@thedivtagguy](https://twitter.com/thedivtagguy)
 - 👨‍💻 All of my coding projects are available at: [@thedivtagguy](https://github.com/thedivtagguy)
