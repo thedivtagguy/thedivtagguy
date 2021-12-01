@@ -64,6 +64,3 @@ I code, write, design, photograph and illustrate (sometimes, at the same time ğŸ
 </p>
 <!-- TODO-IST:END -->
 
-## ğŸ“ˆ My GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedivtagguy&show_icons=true&locale=en" alt="thedivtagguy" /></p>
