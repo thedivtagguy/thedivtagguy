@@ -19,9 +19,8 @@ I code, write, design, photograph and illustrate (sometimes, at the same time �
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thedivtagguy&" alt="adeecc" /></p>
   
 - 🔭 I’m currently working on **[an R package for accessing data on India](https://github.com/thedivtagguy/desidata)**
-- 🌱 I’m currently learning **ReactJS | R | Gatsby & Hugo | Python**;
+- 🌱 I’m learning **ReactJS | R | JAMStack Frameworks | Python**;
 - 📫 Reach me: [@thedivtagguy](https://twitter.com/thedivtagguy)
-- 👨‍💻 All of my coding projects are available at: [@thedivtagguy](https://github.com/thedivtagguy)
 - 💽 View my finished data projects at: [thedivtagguy.com](https://thedivtagguy.com)
 - 📺 I don't just code! View my art: [@thedivtagguy](https://instagram.com/thedivtagguy)
 
