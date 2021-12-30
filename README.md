@@ -14,12 +14,10 @@
 
 Hi, I'm [Aman Bhargava](https://thedivtagguy.com), a Human-Computer Interaction Undergrad at Srishti Institute of Design, Bangalore. I'm exploring Web Development, Data Visualization and Storytelling, and Design. 
 
-I code, write, design, photograph and illustrate (sometimes, at the same time 🦖)
-
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thedivtagguy&" alt="adeecc" /></p>
   
 - 🔭 I’m currently working on **[an R package for accessing data on India](https://github.com/thedivtagguy/desidata)**
-- 🌱 I’m learning **ReactJS | R | JAMStack Frameworks | Python**;
+- 🌱 I’m learning **Svelte | R | JAMStack Frameworks | Python**;
 - 📫 Reach me: [@thedivtagguy](https://twitter.com/thedivtagguy)
 - 💽 View my finished data projects at: [thedivtagguy.com](https://thedivtagguy.com)
 - 📺 I don't just code! View my art: [@thedivtagguy](https://instagram.com/thedivtagguy)
